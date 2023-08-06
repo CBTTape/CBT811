@@ -1,0 +1,15 @@
+2023-08-06 07:43:14.378620 - Initialized conversion of CBT811
+2023-08-06 07:43:14.852382 - Received CBT.V505.FILE811.PDS from FILE811.XMI 
+2023-08-06 07:43:14.854870 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:43:14.855865 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/$PDSLOAD
+2023-08-06 07:43:14.857042 - Found $PDSLSBG.jcl (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/$PDSLSBG
+2023-08-06 07:43:14.857979 - Found $RECEIVE.jcl (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/$RECEIVE
+2023-08-06 07:43:14.858873 - Found @FILE811.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/@FILE811
+2023-08-06 07:43:14.859810 - Found CLIST.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/CLIST
+2023-08-06 07:43:14.860789 - Found DOCLIB.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/DOCLIB
+2023-08-06 07:43:14.861909 - Found ISPPLIB.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/ISPPLIB
+2023-08-06 07:43:14.862966 - Found JCL.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/JCL
+2023-08-06 07:43:14.864122 - Found MACLIB.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/MACLIB
+2023-08-06 07:43:14.869804 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE811.PDS
+2023-08-06 07:43:14.877714   - Received RECFM=U data, stored XMIT file as CBT811/PDSLOAD.xmi
+2023-08-06 07:43:14.880006 - Found SOURCE.txt (text/plain) in CBT.V505.FILE811.PDS, moved to PDS/SOURCE
